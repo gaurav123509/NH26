@@ -1,4 +1,4 @@
-# AI Marketing Platform
+# AI Marketing Platform TEAM CODE 60
 
 A scalable AI-powered marketing content generation platform with OTP-based authentication.
 
